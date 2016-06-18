@@ -1,0 +1,25 @@
+{
+  "name": "tdd-adventure",
+  "version": "0.0.0",
+  "description": "Intro to test-driven development - a nodeschool workshop adventure",
+  "main": "runner.js",
+  "bin": {
+    "tdd-adventure": "runner.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tdd",
+    "nodeschool",
+    "workshop",
+    "adventure",
+    "education"
+  ],
+  "author": "jmhill",
+  "license": "MIT",
+  "dependencies": {
+    "adventure": "^2.11.0",
+    "adventure-verify": "^2.2.0"
+  }
+}
