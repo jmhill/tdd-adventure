@@ -1,6 +1,6 @@
 {
   "name": "tdd-adventure",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Intro to test-driven development - a nodeschool workshop adventure",
   "main": "runner.js",
   "bin": {
