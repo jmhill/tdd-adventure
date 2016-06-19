@@ -21,5 +21,6 @@
   "dependencies": {
     "adventure": "^2.11.0",
     "adventure-verify": "^2.2.0"
-  }
+  },
+  "preferGlobal": true
 }
